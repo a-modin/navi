@@ -24,4 +24,13 @@ a{
 	color: #fff;
 	font-size: 13px;
 	padding: 14px 35px;
+
+	-webkit-transition: 0.5s ease-out;
+	-moz-transition: 0.5s ease-out;
+	-o-transition: 0.5s ease-out;
+	transition: 0.5s ease-out;
+}
+
+a:hover{
+	background: #E68117;
 }
