@@ -27,7 +27,7 @@ a{
 	display: block;
 	width: 140px;
 	height: 40px;
-	background: #000;
+	background: #0A0031;
 	color: #fff;
 	font-size: 13px;
 	padding: 14px 35px;
@@ -39,5 +39,5 @@ a{
 }
 
 a:hover{
-	background: #E68117;
+	background: #272822;
 }
